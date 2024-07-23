@@ -1,6 +1,6 @@
 ChatGPT was used to generate the terraform files to build an Azure Virtual Machine.
 
-These files were generated intentially with errors to learning some of the errors you may have to troubleshoot.
+These files were generated intentially with errors to learn some of the errors you may encounter when troubleshooting.
 
 Summary of Errors
 1. main.tf (root module): Missing closing curly brace } at the end of the file.
