@@ -1,0 +1,10 @@
+resource_group_name = "example-resources"
+location            = "West US 2"
+vnet_name           = "example-vnet"
+vnet_address_space  = ["10.0.0.0/16"]
+subnet_name         = "example-subnet"
+subnet_address_prefix = 10.0.1.0/24 # Error: Should be in quotes to be a string
+nic_name            = "example-nic"
+vm_name             = "example-vm"
+admin_username      = "adminuser"
+admin_password      = "P@ssw0rd1234"
