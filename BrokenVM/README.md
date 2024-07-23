@@ -1,4 +1,4 @@
-ChatGPT was used to create to generate the terraform files to build an Azure Virtual Machine.
+ChatGPT was used to cgenerate the terraform files to build an Azure Virtual Machine.
 
 These files were generated intentially with errors to learning some of the errors you may have to troubleshoot.
 
