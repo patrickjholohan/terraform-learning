@@ -1,10 +1,10 @@
-Terraform Learning Repository
+# Terraform Learning Repository
 
-Overview
+## verview
 Welcome to the Terraform Learning Repository! This repository is designed to provide a hands-on, practical approach to learning Terraform, an open-source infrastructure as code (IaC) tool. Here, you will find a collection of resources, examples, and exercises aimed at helping you understand and master Terraform concepts and workflows.
 
-Objectives
-Learn the Basics: Understand the fundamental concepts of Terraform, including providers, resources, variables, and outputs.
+## Objectives
+- **Learn the Basics**: Understand the fundamental concepts of Terraform, including providers, resources, variables, and outputs.
 Build Infrastructure: Gain practical experience by creating, modifying, and managing infrastructure using Terraform.
 Explore Advanced Features: Dive into more advanced topics such as state management, remote backends, and provisioning with modules.
 Adopt Best Practices: Learn how to write efficient, maintainable, and scalable Terraform configurations.
