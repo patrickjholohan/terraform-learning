@@ -15,4 +15,4 @@ These files were generated intentially with errors to learn some of the errors y
 6. modules/vm/variables.tf: Incorrect type for network_interface_id, should be string.
 7. modules/vm/outputs.tf: Incorrect attribute azurerm_virtual_machine.example.ids, should be azurerm_virtual_machine.example.id.
 
-## These errors will need to be fixed for the configuration to work correctly.
+### These errors will need to be fixed for the configuration to work correctly.
