@@ -15,7 +15,10 @@ Welcome to the Terraform Learning Repository! This repository is designed to pro
 - An account with a cloud service provider (e.g., Azure, GCP, AWS) for practical exercises.
 
 ## Getting Started
-1. Clone the Repository: git clone https://github.com/patrickjholohan/terraform-learning-repo.git
+1. Clone the Repository: 
+    ```sh
+    git clone https://github.com/patrickjholohan/terraform-learning-repo.git
+    ```
 2. Install Terraform: Follow the installation instructions for your operating system [here](https://www.terraform.io/downloads.html).
 3. Start Learning: Navigate to the a directory and follow the instructions in the README file.
 
